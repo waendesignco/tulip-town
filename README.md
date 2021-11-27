@@ -1,2 +1,2 @@
-# sc-201-css-L9C2-Tulip-Town
+Tulip-Town
 Created with CodeSandbox
